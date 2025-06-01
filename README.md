@@ -23,6 +23,8 @@ This repository contains solutions to various Data Structures and Algorithms pro
 ## 💻 Languages Used
 
 - Java (Primary)
+- javascript
+- c++
 
 
 ## ✅ How to Use
