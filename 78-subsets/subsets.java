@@ -9,8 +9,17 @@ class Solution {
     }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
- 
-        f(0,nums,ans,new ArrayList<>());
+        int n = 1<<nums.length;
+        // f(0,nums,ans,new ArrayList<>());
+        for(int i = 0 ; i < n ; i++){
+            List<Integer> l = new ArrayList<>();
+            for(int j = 0 ; j < nums.length ; j++){
+                if((i & (1<<j))!=0){
+                    l.add(nums[j]);
+                }
+            }
+            ans.add(l);
+        }
         return ans;
     }
 }
