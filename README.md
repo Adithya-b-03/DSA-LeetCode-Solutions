@@ -51,6 +51,7 @@ Happy Coding! ✨
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adithya-b-03/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Adithya-b-03/DSA-LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adithya-b-03/DSA-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,8 @@ Happy Coding! ✨
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adithya-b-03/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Adithya-b-03/DSA-LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
